@@ -1,1 +1,13 @@
 
+Device Specific Changelogs:
+Build type: UNOFFICIAL (Monthly)
+Device: Fogos
+Device maintainer: JNWSG (JINWOO)
+
+=====================
+02-09-2025
+=====================
+Device :
+- Moto Camera Added
+- Switched to XiaomiDolby
+- Dropped VIPER4AndroidFX
