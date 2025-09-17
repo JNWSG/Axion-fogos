@@ -5,6 +5,15 @@ Device: Fogos
 Device maintainer: JNWSG (JINWOO)
 
 =====================
+17-09-2025
+=====================
+Device :
+- Update Firmware V1UGS35H.75-14-13-1
+- September Security Patch
+- Implementation Qcom Audio
+- Again add VIPER4AndroidFX
+
+=====================
 02-09-2025
 =====================
 Device :
